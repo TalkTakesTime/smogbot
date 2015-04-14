@@ -1,0 +1,11 @@
+# Editor files
+.*~
+*~
+
+# User-specific files
+main/main
+
+# Other repository types
+.hg
+.svn
+.bzr
